@@ -24,8 +24,8 @@ Through this project, I aimed to:
 
 <br>
 
-## Report Preview
-Below is a preview of the Power BI report:  
+## Report Snapshot
+Below is a snapshot of the Power BI report:  
 ![Maven Toys KPI Report Preview](https://github.com/angelaboo/maven-toys-sales-analysis/blob/84c5f352c070fa6fb832d0e4c99430ebb49e75f9/dashboard/Maven%20Toys%20Store%20KPI%20Report.jpg)  
 
 <br>
