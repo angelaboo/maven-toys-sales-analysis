@@ -37,7 +37,7 @@ The report is based on the following datasets:
 - **sales.csv**: Includes records of sales transactions from January 2022 to September 2023.
 - **stores.csv**: Contains information about store locations across Mexico.
 
-*Note: Please refer to [Maven Analytics](https://mavenanalytics.io/) for access to the datasets.*
+*Note: Dataset provided by [Maven Analytics - Data Playground](https://mavenanalytics.io/data-playground).
 
 <br>
 
