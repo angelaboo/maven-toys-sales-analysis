@@ -24,33 +24,28 @@ Through this project, I aimed to:
 
 <br>
 
-## Report Snapshot
-Below is a snapshot of the Power BI report:  
-![Maven Toys KPI Report Preview](https://github.com/angelaboo/maven-toys-sales-analysis/blob/84c5f352c070fa6fb832d0e4c99430ebb49e75f9/dashboard/Maven%20Toys%20Store%20KPI%20Report.jpg)  
-
-<br>
-
-## Data Used
-The report is based on the following datasets:
-- **calendar.csv**: Contains date-related data for analysis.
-- **product.csv**: Provides details about the toys sold, including product categories, costs, and prices.
-- **sales.csv**: Includes records of sales transactions from January 2022 to September 2023.
-- **stores.csv**: Contains information about store locations across Mexico.
-
-*Note: Dataset provided by [Maven Analytics - Data Playground](https://mavenanalytics.io/data-playground).
-
-<br>
-
 ## Documents
-- **[Maven Toys KPI Report PDF](https://github.com/angelaboo/maven-toys-sales-analysis/blob/84c5f352c070fa6fb832d0e4c99430ebb49e75f9/dashboard/Maven%20Toys%20Store%20KPI%20Report.pdf)**: A PDF version of the Power BI report.
+- **[Maven Toys KPI Report PDF](https://github.com/angelaboo/maven-toys-sales-analysis/blob/bdef2d86617ef4903d53873d17ee00a5628e0d4c/dashboard/Maven%20Toys%20Store%20KPI%20Report.pdf)**: A PDF version of the Power BI report.
+![Maven Toys KPI Report Preview](https://github.com/angelaboo/maven-toys-sales-analysis/blob/bdef2d86617ef4903d53873d17ee00a5628e0d4c/dashboard/Maven%20Toys%20Store%20KPI%20Report.jpg)
 - **[Key Takeaways Learning Mindmap](https://github.com/angelaboo/maven-toys-sales-analysis/blob/84c5f352c070fa6fb832d0e4c99430ebb49e75f9/learning/Key%20Takeaways_Maven%20Toys%20Store%20KPI%20Report.pdf)**: A visual summary of the key insights and learnings from the project.  
   ![Mindmap Preview](https://github.com/angelaboo/maven-toys-sales-analysis/blob/84c5f352c070fa6fb832d0e4c99430ebb49e75f9/learning/Key%20Takeaways_Maven%20Toys%20Store%20KPI%20Report.jpg)
 
 <br>
 
+## Data Used
+The report is based on the following [datasets](https://github.com/angelaboo/maven-toys-sales-analysis/tree/bdef2d86617ef4903d53873d17ee00a5628e0d4c/dataset):
+- **calendar.csv**: Contains date-related data for analysis.
+- **product.csv**: Provides details about the toys sold, including product categories, costs, and prices.
+- **sales.csv**: Includes records of sales transactions from January 2022 to September 2023.
+- **stores.csv**: Contains information about store locations across Mexico.
+
+*Note: Datasets provided by [Maven Analytics - Data Playground](https://mavenanalytics.io/data-playground).
+
+<br>
+
 ## Acknowledgments
 I would like to thank:
-- **Maven Analytics** for providing the dataset and project guidance.
+- **Maven Analytics** for providing the datasets and project guidance.
 - **Toys Store Logo**: [Rocking horse icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/rocking-horse).
 - **Filter icon**: [Filter icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/filter).
 
