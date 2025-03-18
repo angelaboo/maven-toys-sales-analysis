@@ -25,8 +25,8 @@ Through this project, I aimed to:
 <br>
 
 ## Documents
-- **[Maven Toys KPI Report PDF](https://github.com/angelaboo/maven-toys-sales-analysis/blob/bdef2d86617ef4903d53873d17ee00a5628e0d4c/dashboard/Maven%20Toys%20Store%20KPI%20Report.pdf)**: A PDF version of the Power BI report.
-![Maven Toys KPI Report Preview](https://github.com/angelaboo/maven-toys-sales-analysis/blob/bdef2d86617ef4903d53873d17ee00a5628e0d4c/dashboard/Maven%20Toys%20Store%20KPI%20Report.jpg)
+- **[Maven Toys KPI Report PDF](https://github.com/angelaboo/maven-toys-sales-analysis/blob/692d15401844f0d859b2bb0a7fb4f1f9162e527f/dashboard/Maven%20Toys%20Store%20KPI%20Report.pdf)**: A PDF version of the Power BI report.
+![Maven Toys KPI Report Preview](https://github.com/angelaboo/maven-toys-sales-analysis/blob/692d15401844f0d859b2bb0a7fb4f1f9162e527f/dashboard/Maven%20Toys%20Store%20KPI%20Report.jpg)
 - **[Key Takeaways Learning Mindmap](https://github.com/angelaboo/maven-toys-sales-analysis/blob/84c5f352c070fa6fb832d0e4c99430ebb49e75f9/learning/Key%20Takeaways_Maven%20Toys%20Store%20KPI%20Report.pdf)**: A visual summary of the key insights and learnings from the project.  
   ![Mindmap Preview](https://github.com/angelaboo/maven-toys-sales-analysis/blob/84c5f352c070fa6fb832d0e4c99430ebb49e75f9/learning/Key%20Takeaways_Maven%20Toys%20Store%20KPI%20Report.jpg)
 
